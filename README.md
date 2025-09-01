@@ -59,7 +59,7 @@ Transaction Recorded → “₹1000 paid for Order #123”
 
 Notification Sent → via Redis Pub/Sub
 
-📷 Architecture Diagram (Optional)
+📷 Architecture Diagram
                   +-------------------+
                   |   Client (UI)     |
                   +---------+---------+
